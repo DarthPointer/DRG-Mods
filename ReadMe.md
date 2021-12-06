@@ -1,0 +1,1 @@
+A simple mod that remembers your hazard selection you make in its UI and sets it as active whenever you enter Space Rig scene as the host.
